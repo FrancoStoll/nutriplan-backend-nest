@@ -1,0 +1,13 @@
+
+
+export enum ProductCategory {
+    
+    FITNESS = "FITNESS",
+    NUTRICION = "NUTRICION",
+    SALUD_MENTAL = "SALUD_MENTAL",
+    YOGA = "YOGA",
+    CARDIO = "CARDIO",
+    SUPLEMENTOS = "SUPLEMENTOS",
+    MUSCULACION = "MUSCULACION",
+    AYUNO = "AYUNO"
+}
